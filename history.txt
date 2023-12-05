@@ -1,0 +1,45 @@
+    1  pkg update
+    2  ls
+    3  mkdr git-basic-exercises
+    4  cd ../
+    5  ls
+    6  cd ../..
+    7  ls
+    8  mkdir git-basic-exercises
+    9  cd git-basic-exercises
+   10  ls -a
+   11  rm ./
+   12  pkg update
+   13  pkg upgrade
+   14  ls
+   15  cd Documents
+   16  ls
+   17  cd umuzicodes
+   18  ls
+   19  git log
+   20  git revert
+   21  git log
+   22  git branch task/2
+   23  git checkout master
+   24  git checkout -b task/1
+   25  cd git-basic-exercises
+   26  git log
+   27  git checkout  6182de0b53739f1525f0b66bc006ebd2c1a27d43
+   28  cat README.md
+   29  git checkout master
+   30  cat README.md
+   31  git branch
+   32  git branch milkshake-flavours
+   33  git branch
+   34  git checkout milkshake-flavours
+   35  nano milkshake.md
+   36  git status
+   37  git add milkshake.md
+   38  git commit -m "added initial flavours"
+   39  git log
+   40  git checkout master
+   41  git branch history
+   42  git checkout history
+   43  git log
+   44  git branch
+   45  history > history.txt
