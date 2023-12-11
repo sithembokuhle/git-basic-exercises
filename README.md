@@ -1,3 +1,2 @@
-The snake came into my water trough and I in pyjamas for the the heat to drink there in the deep scented shade of the dark carob tree. I like a second commer waiting.
-He lifted his head as drinking cattle do and stooped and drunk a little more.
+The snake came into my water trough, and I, in pajamas due to the heat, was there in the deep, scented shade of the dark carob tree. I stood like a second comer, waiting. The snake lifted its head, as drinking cattle do, and stooped to drink a little more.
 
